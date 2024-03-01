@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SarahSquyres.SarahSquyres" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+;+I'm+Sarah+Squyres!;">
+  <img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+;+I'm+Sarah+Squyres!;">
 </h1>
 
 <h3 align="center">A curious and creative Software Developer from Texas</h3>
