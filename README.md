@@ -11,7 +11,7 @@
 <div align="center">
   📈 I'm currently working on ArribaStocks, a stock market application
   
-  📝 I'm currently improving my JavaScript algorithm skils (yay LeetCode lol)
+  📝 I'm also working to my JavaScript algorithm skils (yay LeetCode lol)
 </div>
 <br>
 <div align="center">
@@ -23,17 +23,16 @@
 <div align="center">
   - Mark Twain
 </div>
-<!--
-**SarahSquyres/SarahSquyres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="mailto:ssquyres15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=fmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarah-squyres/">
+    <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SarahSquyres">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todolist&logoColor=white" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
