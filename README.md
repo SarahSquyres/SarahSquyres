@@ -25,12 +25,12 @@
 </div>
 <div align="center">
   <a href="mailto:ssquyres15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=fmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/sarah-squyres/">
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SarahSquyres">
+  <a href="https://squyres-portfolio-077523396b85.herokuapp.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todolist&logoColor=white" />
   </a>
 </div>
