@@ -23,6 +23,7 @@
 <div align="center">
   - Mark Twain
 </div>
+<br>
 <div align="center">
   <a href="mailto:ssquyres15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://squyres-portfolio-077523396b85.herokuapp.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todolist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
