@@ -15,13 +15,14 @@
 </div>
 <br>
 <div align="center">
-✨ Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. 
+  ✨ Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. 
 </div>
 <div align="center">
-Explore, Dream, Discover.
-- Mark Twain
+  Explore, Dream, Discover.
 </div>
-
+<div align="center">
+  - Mark Twain
+</div>
 <!--
 **SarahSquyres/SarahSquyres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
