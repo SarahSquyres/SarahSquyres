@@ -14,7 +14,9 @@
     </div>
     <br>
 <div align="center">
-✨ "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from✨ safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." 
+✨ "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." 
+</div>
+<div align="center">
   - Mark Twain
 </div>
 
