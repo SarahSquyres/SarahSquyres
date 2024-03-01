@@ -6,9 +6,11 @@
 
 <h3 align="center">A curious and creative Software Developer from Texas🌵</h3>
 
-<div align="center">
+<div align="left">
   - 📈 I'm currently working on ArribaStocks, a stock market application
+  
   - 📝 I'm currently improving my JavaScript algorithm skils (yay LeetCode lol)
+  - 
   - ✨ "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." - Mark Twain
 </div>
 
