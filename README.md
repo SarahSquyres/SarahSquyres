@@ -35,5 +35,14 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
+</div>
+<br>
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,github,js,express,mongodb,react,bootstrap,mysql,html,css,vscode,git,graphql,heroku,jquery,npm,tailwind" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=css,vscode,git,graphql,heroku,jquery,npm,tailwind" />
+</a>
+</div>
 
 
