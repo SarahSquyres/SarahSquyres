@@ -11,7 +11,7 @@
 <div align="center">
   📈 I'm currently working on ArribaStocks, a stock market application
   
-  📝 I'm also working to my JavaScript algorithm skils (yay LeetCode lol)
+  📝 I'm also working to improve my JavaScript algorithm skils (yay LeetCode lol)
 </div>
 <br>
 <div align="center">
