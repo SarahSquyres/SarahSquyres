@@ -7,6 +7,7 @@
 <h3 align="center">A curious and creative Software Developer from Texas🌵</h3>
 <br>
 <div align="left">
+  
   - 📈 I'm currently working on ArribaStocks, a stock market application
   
   - 📝 I'm currently improving my JavaScript algorithm skils (yay LeetCode lol)
