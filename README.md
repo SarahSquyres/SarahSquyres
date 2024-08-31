@@ -9,9 +9,15 @@
 </h3>
 <br>
 <div align="center">
-  📈 I'm currently working on a website for Champion Custom Designs, a local Architectural Drafting business
+  📐 I'm currently working on a website for Champion Custom Designs, a local Architectural Drafting business
   
   📝 Studying to pursue my PL-400 Microsoft Power Platform Developer Associate
+</div>
+<br>
+<div align="center">
+  <h3>Certifications</h3>
+  PL-900 Microsoft Power Platform Fundamentals
+  PL-200 Microsoft Power Platform Functional Consultant
 </div>
 <br>
 <div align="center">
