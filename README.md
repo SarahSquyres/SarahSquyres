@@ -30,7 +30,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/sarah-squyres/
 </div>
 
 
