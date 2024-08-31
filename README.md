@@ -17,6 +17,7 @@
 <div align="center">
   <h3>Certifications</h3>
   PL-900 Microsoft Power Platform Fundamentals
+  <br>
   PL-200 Microsoft Power Platform Functional Consultant
 </div>
 <br>
