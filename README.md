@@ -7,12 +7,13 @@
 <h3 align="center">
   A curious and creative Software Developer from Texas🌵
 </h3>
+
 <br>
 <div align="center">
   📐 I'm currently working on a website for Champion Custom Designs, a local Architectural Drafting business
-  
   📝 Studying to pursue my PL-400 Microsoft Power Platform Developer Associate
 </div>
+
 <br>
 <div align="center">
   <h3>Certifications</h3>
