@@ -11,6 +11,7 @@
 <br>
 <div align="center">
   📐 I'm currently working on a website for Champion Custom Designs, a local Architectural Drafting business
+  
   📝 Studying to pursue my PL-400 Microsoft Power Platform Developer Associate
 </div>
 
