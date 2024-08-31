@@ -8,21 +8,28 @@
   A curious and creative Software Developer from Texas🌵
 </h3>
 
-<br>
+
 <div align="center">
   📐 I'm currently working on a website for Champion Custom Designs, a local Architectural Drafting business
   
   📝 Studying to pursue my PL-400 Microsoft Power Platform Developer Associate
 </div>
 
-<br>
+
 <div align="center">
   <h3>Certifications</h3>
   PL-900 Microsoft Power Platform Fundamentals
-  <br>
+
   PL-200 Microsoft Power Platform Functional Consultant
 </div>
-<br>
+
+<div align="center">
+  <h3>Connect With Me</h3>
+[<img align="center" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/sarah-squyres/
+</div>
+
+
 <div align="center">
   ✨ Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. 
 </div>
