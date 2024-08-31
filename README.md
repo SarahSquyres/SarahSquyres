@@ -9,9 +9,9 @@
 </h3>
 <br>
 <div align="center">
-  📈 I'm currently working on ArribaStocks, a stock market application
+  📈 I'm currently working on a website for Champion Custom Designs, a local Architectural Drafting business
   
-  📝 I'm also working to improve my JavaScript algorithm skills (yay LeetCode lol)
+  📝 Studying to pursue my PL-400 Microsoft Power Platform Developer Associate
 </div>
 <br>
 <div align="center">
