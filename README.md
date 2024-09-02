@@ -15,17 +15,17 @@
   📝 Studying to pursue my PL-400 Microsoft Power Platform Developer Associate
 </div>
 
-
+<br>
 <div align="center">
   <h3>Certifications</h3>
   PL-900 Microsoft Power Platform Fundamentals
 
   PL-200 Microsoft Power Platform Functional Consultant
 </div>
+
 <br>
 <div align="center">
   <h3>Connect With Me</h3>
-<br>
 <div align="center">
   <a href="mailto:ssquyres15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
