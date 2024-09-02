@@ -27,9 +27,6 @@
 <div align="center">
   <h3>Connect With Me</h3>
 <div align="center">
-  <a href="mailto:ssquyres15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/sarah-squyres/">
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
