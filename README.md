@@ -22,27 +22,9 @@
 
   PL-200 Microsoft Power Platform Functional Consultant
 </div>
-
+<br>
 <div align="center">
   <h3>Connect With Me</h3>
-
-[<img align="center" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/sarah-squyres/
-</div>
-
-
-<div align="center">
-  ✨ Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. 
-</div>
-<div align="center">
-  Explore, Dream, Discover.
-</div>
-<div align="center">
-  - Mark Twain
-</div>
 <br>
 <div align="center">
   <a href="mailto:ssquyres15@gmail.com">
